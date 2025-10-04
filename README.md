@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Meghana Kotharu</h1>
 <h3 align="center">Power BI || Web Development || Python Enthusiastic</h3>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Machine Learning & Statistics**
 
 
-- 💬 Ask me about **html,css,python,java, Data Analysis**
+- 💬 Ask me about **Data Analysis, Git, GitHub, Docker, Prompting Engineering**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1afqlC4VkS1GoZHXmEfwlt3tzzoDZxN4FOC4OAItKgp4/edit](https://docs.google.com/document/d/1afqlC4VkS1GoZHXmEfwlt3tzzoDZxN4FOC4OAItKgp4/edit)
 
